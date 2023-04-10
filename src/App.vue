@@ -152,7 +152,7 @@
   width: 100%;
   height: 10px;
   border-radius: 5px;
-  background: silver; /* color de fondo del control deslizante */
+  background: grey; /* color de fondo del control deslizante */
 }
 
 /* Agrega sombra al v-card */
